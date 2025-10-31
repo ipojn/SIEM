@@ -24,6 +24,6 @@ wget https://github.com/ipojn/SIEM/blob/main/siem.sh
 chmod +x siem.sh
 ./siem.sh
 ```
-## Пример выввода
+## Пример вывода
 ALERT: Path Traversal detected - /index.php?page=../../../../etc/passwd
 IP: 192.168.1.105
